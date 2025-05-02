@@ -9,7 +9,7 @@ import { Copy, Download, Upload } from "lucide-react";
 
 import { motion } from "framer-motion";
 
-const MAX_GRID = 64;
+const MAX_GRID = 128;
 
 const contentFont = Lexend({
   subsets: ["latin"],
